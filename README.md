@@ -1,7 +1,36 @@
-Análise exploratória de dados com python: Extraindo insights da participação do Brasil na maratona de Boston 2019
-Maratona de Boston é a mais famosa e tradicional corrida de longa distância realizada anualmente em todo o mundo, disputada em 42,195 km entre as cidades de Hopkinton e Boston, no estado de Massachusetts, Estados Unidos.
+# Boston 2019 | Análise de participação
 
-Ela é a segunda mais antiga das maratonas, atrás apenas da maratona olímpica disputada pela primeira vez em Atenas 1896, mas a pioneira de todas as disputadas anualmente, existindo desde o ano de 1897, sem interrupção. Organizada pela B.A.A — Boston Atlethics Association, entre 1897 e 1968 a prova foi sempre disputada no dia 19 de abril, o Dia do Patriota, um feriado em comemoração ao início da revolução americana contra o domínio inglês, reconhecido apenas nos estados do Maine e de Massachussets. A partir de 1969, com a mudança do feriado para a terceira segunda-feira do mês de abril, é neste dia que ela é realizada.
-Com a participação atual de mais de vinte mil atletas de diversos países a cada ano, alguns dos maiores corredores da história já escreveram seu nome na prova, como os campeões olímpicos Abebe Bikila, Mamo Wolde, Ville Ritola, Gelindo Bordin, Joan Benoit e a portuguesa Rosa Mota, que com três vitórias é uma das recordistas entre as mulheres.
+Análise exploratória de dados da Maratona de Boston de 2019, com foco na participação brasileira.
 
+**Análise de dados** · Notebook
 
+[← Portfólio de Thiago Oliveira](https://github.com/thiagoramos20042/thiagoramos20042) · [Catálogo de projetos](https://github.com/thiagoramos20042/thiagoramos20042/blob/main/PROJETOS.md)
+
+## Objetivo
+
+Explorar o conjunto de participantes e transformar os dados da prova em comparações visuais.
+
+## O que você encontra
+
+- Leitura e exploração de dados da prova.
+- Análise da participação brasileira.
+- Visualizações e um notebook complementar de dados de saúde.
+
+## Tecnologias
+
+Python · pandas · Matplotlib · seaborn · Plotly
+
+## Arquivos principais
+
+| Arquivo | Conteúdo |
+| --- | --- |
+| [Analisando_o_dataset_maratona_de_Boston_2019.ipynb](Analisando_o_dataset_maratona_de_Boston_2019.ipynb) | Análise principal da maratona. |
+| [Data analytics na área da saúde.ipynb](Data%20analytics%20na%20%C3%A1rea%20da%20sa%C3%BAde.ipynb) | Estudo complementar presente no repositório. |
+
+## Como explorar
+
+Abra [Analisando_o_dataset_maratona_de_Boston_2019.ipynb](Analisando_o_dataset_maratona_de_Boston_2019.ipynb) no visualizador do GitHub para acompanhar o código e as saídas salvas. Para explorar as células, use Jupyter ou a extensão de notebooks do VS Code. Antes de executar, confira os caminhos de entrada, as fontes externas e os imports nas primeiras células.
+
+---
+
+Integra o [portfólio de Thiago Oliveira](https://github.com/thiagoramos20042).
